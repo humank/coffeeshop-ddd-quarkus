@@ -1,0 +1,16 @@
+solid/humank/coffeeshop/infra/repositories/DDBMapper.class
+solid/humank/coffeeshop/infra/repositories/coffee/CoffeeRepoSpec.class
+solid/humank/coffeeshop/infra/repositories/DDBRepositoryBase.class
+solid/humank/coffeeshop/infra/repositories/AggregateRootMapper.class
+solid/humank/coffeeshop/infra/repositories/orders/OrderRepoSpec.class
+solid/humank/coffeeshop/infra/repositories/orders/OrderDDBMapper.class
+solid/humank/coffeeshop/infra/adapters/CloudWatchEventAdapter.class
+solid/humank/coffeeshop/infra/adapters/PublishResult.class
+solid/humank/coffeeshop/infra/serializations/EntityId.class
+solid/humank/coffeeshop/infra/adapters/SSMUtil.class
+solid/humank/coffeeshop/infra/repositories/coffee/CoffeeDDBMapper.class
+solid/humank/coffeeshop/infra/serializations/DomainEventPublisher.class
+solid/humank/coffeeshop/infra/adapters/ProxyResponseWrapper.class
+solid/humank/coffeeshop/infra/adapters/ProxyRequestEventTranslator.class
+solid/humank/coffeeshop/infra/serializations/DomainEvent.class
+solid/humank/coffeeshop/infra/serializations/ValueObject.class

@@ -1,0 +1,6 @@
+solid/humank/coffeeshop/cofee/sls/coffee/models/CoffeeRM.class
+solid/humank/coffeeshop/cofee/sls/orders/OrderCreatedHandler.class
+solid/humank/coffeeshop/cofee/sls/orders/datacontracts/BodyDetail.class
+solid/humank/coffeeshop/cofee/sls/orders/datacontracts/OrderId.class
+solid/humank/coffeeshop/cofee/sls/orders/datacontracts/OrderCreated.class
+solid/humank/coffeeshop/cofee/sls/orders/datacontracts/OrderItem.class

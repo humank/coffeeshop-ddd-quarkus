@@ -1,0 +1,16 @@
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/repositories/orders/OrderRepoSpec.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/repositories/DDBRepositoryBase.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/serializations/EntityId.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/adapters/ProxyRequestEventTranslator.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/repositories/orders/OrderDDBMapper.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/adapters/SSMUtil.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/serializations/ValueObject.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/serializations/DomainEvent.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/adapters/ProxyResponseWrapper.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/repositories/DDBMapper.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/adapters/CloudWatchEventAdapter.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/repositories/AggregateRootMapper.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/adapters/PublishResult.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/serializations/DomainEventPublisher.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/repositories/coffee/CoffeeRepoSpec.java
+/Users/yikaikao/git/coffeeshop-ddd-quarkus/infrastructure/src/main/java/solid/humank/coffeeshop/infra/repositories/coffee/CoffeeDDBMapper.java

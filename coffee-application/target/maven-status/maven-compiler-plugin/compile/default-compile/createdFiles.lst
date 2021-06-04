@@ -1,0 +1,7 @@
+solid/humank/coffeeshop/coffee/datacontracts/results/CoffeeRst.class
+solid/humank/coffeeshop/coffee/domainservices/CoffeeItemsTranslator.class
+solid/humank/coffeeshop/coffee/datacontracts/messages/MakeCoffeeMsg.class
+solid/humank/coffeeshop/coffee/datacontracts/results/CoffeeItemRst.class
+solid/humank/coffeeshop/coffee/applications/MakeCoffeeSvc.class
+solid/humank/coffeeshop/inventories/applicationservices/ConfirmInventorySvc.class
+solid/humank/coffeeshop/coffee/repositories/CoffeeRepository.class

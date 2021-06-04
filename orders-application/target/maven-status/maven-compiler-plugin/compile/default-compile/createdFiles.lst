@@ -1,0 +1,8 @@
+solid/humank/coffeeshop/order/datacontracts/messages/OrderReadModel.class
+solid/humank/coffeeshop/order/domainservices/IdTranslator.class
+solid/humank/coffeeshop/order/datacontracts/messages/CreateOrderMsg.class
+solid/humank/coffeeshop/order/repositories/OrderRepository.class
+solid/humank/coffeeshop/order/datacontracts/results/OrderItemRst.class
+solid/humank/coffeeshop/order/domainservices/OrderItemsTranslator.class
+solid/humank/coffeeshop/order/datacontracts/results/OrderRst.class
+solid/humank/coffeeshop/order/applications/CreateOrderSvc.class

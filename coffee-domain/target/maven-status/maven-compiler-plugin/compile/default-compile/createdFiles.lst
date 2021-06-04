@@ -1,0 +1,8 @@
+solid/humank/coffeeshop/coffee/models/products/Product.class
+solid/humank/coffeeshop/coffee/policies/CoffeeMakePolicy.class
+solid/humank/coffeeshop/coffee/models/CoffeeStatus.class
+solid/humank/coffeeshop/coffee/interfaces/ICoffeeRepository.class
+solid/humank/coffeeshop/coffee/models/CoffeeId.class
+solid/humank/coffeeshop/coffee/commands/MakeCoffee.class
+solid/humank/coffeeshop/coffee/models/CoffeeItem.class
+solid/humank/coffeeshop/coffee/models/Coffee.class

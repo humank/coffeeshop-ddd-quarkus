@@ -1,0 +1,4 @@
+solid/humank/coffeeshop/order/models/requests/AddOrderReq.class
+solid/humank/coffeeshop/order/controllers/OrderResource.class
+solid/humank/coffeeshop/order/models/requestsmodels/OrderItemRM.class
+solid/humank/coffeeshop/order/AppResource.class
