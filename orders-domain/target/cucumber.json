@@ -1,0 +1,82 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2021-09-06T08:52:19.784Z",
+        "line": 3,
+        "name": "Drink Americano, stay in",
+        "description": "",
+        "id": "order-americano-in-seat;drink-americano--stay-in",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 12000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "customer wants to order coffee with the following detail",
+            "match": {
+              "location": "solid.humank.coffeeshop.order.cucumber.OrderAmericanoSteps.\u003cinit\u003e(OrderAmericanoSteps.java:25)"
+            },
+            "rows": [
+              {
+                "cells": [
+                  "coffee",
+                  "quantity",
+                  "price"
+                ]
+              },
+              {
+                "cells": [
+                  "Americano",
+                  "2",
+                  "80"
+                ]
+              }
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 274000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the order is confirmed",
+            "match": {
+              "location": "solid.humank.coffeeshop.order.cucumber.OrderAmericanoSteps.\u003cinit\u003e(OrderAmericanoSteps.java:39)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3000000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the total fee should be 160l",
+            "match": {
+              "arguments": [
+                {
+                  "val": "160",
+                  "offset": 24
+                }
+              ],
+              "location": "solid.humank.coffeeshop.order.cucumber.OrderAmericanoSteps.\u003cinit\u003e(OrderAmericanoSteps.java:41)"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "Order Americano in seat",
+    "description": "",
+    "id": "order-americano-in-seat",
+    "keyword": "Feature",
+    "uri": "classpath:solid/humank/coffeeshop/order/cucumber/OrderAmericano.feature",
+    "tags": []
+  }
+]

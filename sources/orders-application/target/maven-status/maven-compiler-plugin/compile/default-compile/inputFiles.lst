@@ -1,8 +1,0 @@
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/orders-application/src/main/java/solid/humank/coffeeshop/order/domainservices/OrderItemsTranslator.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/orders-application/src/main/java/solid/humank/coffeeshop/order/domainservices/IdTranslator.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/orders-application/src/main/java/solid/humank/coffeeshop/order/datacontracts/messages/CreateOrderMsg.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/orders-application/src/main/java/solid/humank/coffeeshop/order/datacontracts/messages/OrderReadModel.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/orders-application/src/main/java/solid/humank/coffeeshop/order/datacontracts/results/OrderRst.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/orders-application/src/main/java/solid/humank/coffeeshop/order/repositories/OrderRepository.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/orders-application/src/main/java/solid/humank/coffeeshop/order/applications/CreateOrderSvc.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/orders-application/src/main/java/solid/humank/coffeeshop/order/datacontracts/results/OrderItemRst.java

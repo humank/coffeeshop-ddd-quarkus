@@ -1,8 +1,0 @@
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/coffee-domain/src/main/java/solid/humank/coffeeshop/coffee/models/CoffeeStatus.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/coffee-domain/src/main/java/solid/humank/coffeeshop/coffee/models/products/Product.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/coffee-domain/src/main/java/solid/humank/coffeeshop/coffee/interfaces/ICoffeeRepository.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/coffee-domain/src/main/java/solid/humank/coffeeshop/coffee/models/CoffeeItem.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/coffee-domain/src/main/java/solid/humank/coffeeshop/coffee/commands/MakeCoffee.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/coffee-domain/src/main/java/solid/humank/coffeeshop/coffee/models/Coffee.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/coffee-domain/src/main/java/solid/humank/coffeeshop/coffee/models/CoffeeId.java
-/Users/yikaikao/git/coffeeshop-ddd-quarkus/coffee-domain/src/main/java/solid/humank/coffeeshop/coffee/policies/CoffeeMakePolicy.java

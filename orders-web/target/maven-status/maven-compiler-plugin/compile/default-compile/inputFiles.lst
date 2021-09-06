@@ -1,0 +1,4 @@
+/Users/yikaikao/git/aws-samples/designing-cloud-native-microservices-on-aws/sources/coffeeshop/orders-web/src/main/java/solid/humank/coffeeshop/order/models/requests/AddOrderReq.java
+/Users/yikaikao/git/aws-samples/designing-cloud-native-microservices-on-aws/sources/coffeeshop/orders-web/src/main/java/solid/humank/coffeeshop/order/AppResource.java
+/Users/yikaikao/git/aws-samples/designing-cloud-native-microservices-on-aws/sources/coffeeshop/orders-web/src/main/java/solid/humank/coffeeshop/order/models/requestsmodels/OrderItemRM.java
+/Users/yikaikao/git/aws-samples/designing-cloud-native-microservices-on-aws/sources/coffeeshop/orders-web/src/main/java/solid/humank/coffeeshop/order/controllers/OrderResource.java
