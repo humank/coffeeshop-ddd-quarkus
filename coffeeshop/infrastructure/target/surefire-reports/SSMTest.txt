@@ -1,4 +1,10 @@
 -------------------------------------------------------------------------------
 Test set: SSMTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.233 s - in SSMTest
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 9.45 s <<< FAILURE! - in SSMTest
+ssmTest  Time elapsed: 9.446 s  <<< ERROR!
+software.amazon.awssdk.core.exception.SdkClientException: Unable to execute HTTP request: connect timed out
+	at SSMTest.ssmTest(SSMTest.java:20)
+Caused by: java.net.SocketTimeoutException: connect timed out
+	at SSMTest.ssmTest(SSMTest.java:20)
+

@@ -3,7 +3,7 @@
     "line": 1,
     "elements": [
       {
-        "start_timestamp": "2021-09-06T08:52:19.784Z",
+        "start_timestamp": "2021-12-15T15:20:08.324Z",
         "line": 3,
         "name": "Drink Americano, stay in",
         "description": "",
@@ -13,7 +13,7 @@
         "steps": [
           {
             "result": {
-              "duration": 12000000,
+              "duration": 20000000,
               "status": "passed"
             },
             "line": 4,
@@ -41,7 +41,7 @@
           },
           {
             "result": {
-              "duration": 274000000,
+              "duration": 609000000,
               "status": "passed"
             },
             "line": 7,
@@ -53,7 +53,7 @@
           },
           {
             "result": {
-              "duration": 3000000,
+              "duration": 5000000,
               "status": "passed"
             },
             "line": 8,
